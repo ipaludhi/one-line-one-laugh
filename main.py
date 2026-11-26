@@ -2,6 +2,7 @@
 # (or $MAKEFUN_OUTPUT_DIR). No network, no randomness, no input.
 # The joke: inbox zero achieved the nuclear way — delete the account.
 # The payoff reframes the whole premise: the peace cost the job.
+# Deterministic: the same line on every run, no input, no randomness.
 import os
 from pathlib import Path
 
